@@ -1,0 +1,34 @@
+.navbar{
+    color: black;
+    padding: 25px;
+
+}
+.carousel {
+    width: 50%;
+    height:50% ;
+}
+.side-image {
+    width: 100%;
+    display: flex;
+    border-radius: 5px;
+    float: right;
+     margin-left: 25px;
+     height: 100%;
+     justify-content: space-between;
+
+     
+}
+
+.text {
+    width: 100%;
+    padding: 100px ;
+    display: block;
+    position: relative;
+    background-size: cover !important;
+}
+.container {
+    
+     justify-content: space-between;
+        display: flex;
+    
+}
